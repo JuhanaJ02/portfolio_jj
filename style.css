@@ -60,3 +60,22 @@ a:hover {
 .logo {
     font-size: 2rem;
 }
+
+/* HAMBURGER MENU */
+
+#hamburger-nav {
+    display: none;
+}
+.hamburger-menu {
+    position: relative;
+    display: inline-block;
+}
+
+.hambuurger-icon {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 24px;
+    width: 30px;
+    cursor: pointer;
+}
