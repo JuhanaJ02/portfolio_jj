@@ -31,7 +31,6 @@
         margin-top: 0;
     }
     .text-container{
-        text-align: justify;
         padding-left: 20%;
         padding-right: 20%;
     }
@@ -81,7 +80,6 @@
         font-size: 2rem;
     }
     .text-container{
-        text-align: justify;
         padding-left: 10%;
         padding-right: 10%;
     }
